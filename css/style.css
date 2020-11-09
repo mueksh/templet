@@ -1,0 +1,43 @@
+body{
+	font-family: 'Handlee', cursive;
+}
+.header{
+	height: 90vh;
+	width: 100%;
+	
+	color: white;
+	background: linear-gradient(to right,rgb(92, 87, 122),rgba(95, 68, 68, 0.3)), 
+	url("https://images.pexels.com/photos/3861961/pexels-photo-3861961.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+	background-size: cover;
+
+}
+.h-100{
+	height: 100;
+	width: 100;
+}
+.btn{
+	border-radius: 8rem !important;
+	padding: 1.25rem 2.2rem !important;
+}
+.message{
+	background-image: linear-gradient(to top,#cf2020 0%,#881988 100%);
+}
+.download{
+
+	background-image: linear-gradient(to top,#8ee0ba 0%,#484ace 100%);
+}
+.important{
+	background-image: linear-gradient(to top,#2f77c9 0%,#7e2424 100%);
+
+}
+.some{
+	background-image: linear-gradient(to top,#3f973f 0%,#253a1c 100%);
+}
+.service{
+	background-image: linear-gradient(to top,#3f973f 0%,#253a1c 100%);
+
+}
+.touch{
+    background-image: linear-gradient(to top,#2306363a 0%,#eba611 100%);
+	
+}
